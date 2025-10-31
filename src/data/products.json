@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "Expired Antibiotics (Amoxicillin)",
+    "category": "Antibiotics",
+    "hazard_level": "medium",
+    "description": "Capsules or tablets that have passed expiration date",
+    "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400",
+    "disposal_instructions": "Step 1: Remove antibiotics from original container\nStep 2: Mix with undesirable substance (coffee grounds, dirt, or cat litter)\nStep 3: Place mixture in sealed plastic bag or container\nStep 4: Remove any personal information from prescription label\nStep 5: Place sealed container in regular trash\nStep 6: Do NOT flush down toilet or drain as it contaminates water supply"
+  },
+  {
+    "id": "2",
+    "name": "Insulin Pens & Needles",
+    "category": "Injectables",
+    "hazard_level": "high",
+    "description": "Used insulin delivery devices and sharps",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Place used needles immediately in FDA-cleared sharps container\nStep 2: If no sharps container available, use heavy-duty plastic bottle with screw-on cap\nStep 3: Label container clearly as 'SHARPS - DO NOT RECYCLE'\nStep 4: When container is 3/4 full, seal cap with heavy-duty tape\nStep 5: Check local regulations for sharps disposal locations\nStep 6: Never place loose sharps in regular trash or recycling"
+  },
+  {
+    "id": "3",
+    "name": "Opioid Pain Relievers",
+    "category": "Controlled Substances",
+    "hazard_level": "critical",
+    "description": "Prescription painkillers like oxycodone, hydrocodone",
+    "image_url": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=400",
+    "disposal_instructions": "Step 1: Mix pills with activated charcoal or coffee grounds in sealed bag\nStep 2: Add small amount of water to begin dissolution\nStep 3: Seal in second bag to prevent leakage\nStep 4: Dispose in designated pharmaceutical waste container\nStep 5: Record disposal in facility log with date and quantity\nStep 6: Alternative: Use FDA-approved drug deactivation pouches if available"
+  },
+  {
+    "id": "4",
+    "name": "Chemotherapy Drugs",
+    "category": "Hazardous Drugs",
+    "hazard_level": "critical",
+    "description": "Cytotoxic medications for cancer treatment",
+    "image_url": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=400",
+    "disposal_instructions": "Step 1: Wear double gloves and protective equipment during handling\nStep 2: Place drugs in yellow chemotherapy waste container\nStep 3: Do NOT mix with regular pharmaceutical waste\nStep 4: Seal container when 3/4 full with hazardous waste tape\nStep 5: Label with date, drug name, and 'CYTOTOXIC WASTE'\nStep 6: Store in designated secure area until licensed hazardous waste pickup\nStep 7: Maintain disposal records for minimum 3 years"
+  },
+  {
+    "id": "5",
+    "name": "Liquid Cough Syrup",
+    "category": "Liquids",
+    "hazard_level": "low",
+    "description": "Over-the-counter or prescription cough medications",
+    "image_url": "https://images.unsplash.com/photo-1584362917165-526a968579e8?w=400",
+    "disposal_instructions": "Step 1: Pour liquid into disposable container\nStep 2: Add absorbent material (sawdust, cat litter, flour) equal to liquid volume\nStep 3: Stir mixture until fully absorbed\nStep 4: Seal container with lid and tape\nStep 5: Remove label from original bottle\nStep 6: Rinse empty bottle and recycle if possible\nStep 7: Place sealed container in regular trash"
+  },
+  {
+    "id": "6",
+    "name": "Anticoagulants (Warfarin)",
+    "category": "Blood Thinners",
+    "hazard_level": "high",
+    "description": "Medications that prevent blood clotting",
+    "image_url": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=400",
+    "disposal_instructions": "Step 1: Count remaining tablets and document quantity\nStep 2: Crush tablets using mortar and pestle or in sealed bag\nStep 3: Mix crushed medication with coffee grounds or soil\nStep 4: Add small amount of dish soap to mixture\nStep 5: Place in sealed plastic container or zip-lock bag\nStep 6: Dispose in pharmaceutical waste bin, NOT regular trash\nStep 7: Clean tools used with hot soapy water"
+  },
+  {
+    "id": "7",
+    "name": "Hormone Therapy Patches",
+    "category": "Transdermal",
+    "hazard_level": "medium",
+    "description": "Estrogen, testosterone, or nicotine patches",
+    "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=400",
+    "disposal_instructions": "Step 1: Fold used patch in half with sticky sides together\nStep 2: Place folded patch in original pouch if available\nStep 3: If no pouch, wrap in aluminum foil\nStep 4: Place wrapped patches in sealed plastic bag\nStep 5: Dispose in pharmaceutical waste or sealed regular trash\nStep 6: Wash hands thoroughly after handling\nStep 7: Never cut or tear patches as this releases medication"
+  },
+  {
+    "id": "8",
+    "name": "Expired Epinephrine Auto-Injectors",
+    "category": "Emergency Medications",
+    "hazard_level": "high",
+    "description": "EpiPens and similar devices past expiration",
+    "image_url": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400",
+    "disposal_instructions": "Step 1: Activate auto-injector into thick cloth or paper towels to empty medication\nStep 2: Wrap used device in several layers of newspaper\nStep 3: Place in rigid plastic container or sharps container\nStep 4: Seal container with heavy-duty tape\nStep 5: Label as 'USED MEDICAL DEVICE'\nStep 6: Contact local waste management for sharps disposal guidelines\nStep 7: Never attempt to disassemble the device"
+  },
+  {
+    "id": "9",
+    "name": "Antidepressants (SSRIs)",
+    "category": "Psychiatric Medications",
+    "hazard_level": "medium",
+    "description": "Selective serotonin reuptake inhibitors",
+    "image_url": "https://images.unsplash.com/photo-1550572017-4d432053c85f?w=400",
+    "disposal_instructions": "Step 1: Remove tablets from blister packs or bottle\nStep 2: Crush tablets with back of spoon in sealed bag\nStep 3: Mix with used coffee filters or tea bags\nStep 4: Add enough water to create paste consistency\nStep 5: Transfer to sealed plastic container\nStep 6: Remove all identifying information from original packaging\nStep 7: Dispose in pharmaceutical waste or regular trash\nStep 8: Do not dispose in sink or toilet to prevent water contamination"
+  },
+  {
+    "id": "10",
+    "name": "Insulin Vials",
+    "category": "Injectables",
+    "hazard_level": "medium",
+    "description": "Glass vials containing insulin solution",
+    "image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400",
+    "disposal_instructions": "Step 1: Draw out remaining insulin with syringe\nStep 2: Dispose syringe in sharps container\nStep 3: Rinse empty vial with hot water three times\nStep 4: Add small amount of bleach solution (10%) to vial\nStep 5: Let sit for 5 minutes\nStep 6: Pour out bleach solution in sink with running water\nStep 7: Wrap vial in paper and place in sealed container\nStep 8: Dispose in pharmaceutical waste or regular trash"
+  },
+  {
+    "id": "11",
+    "name": "Aerosol Inhalers",
+    "category": "Respiratory",
+    "hazard_level": "medium",
+    "description": "Pressurized metered-dose inhalers",
+    "image_url": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?w=400",
+    "disposal_instructions": "Step 1: Check if inhaler is completely empty by checking dose counter\nStep 2: Remove metal canister from plastic holder if possible\nStep 3: Wrap canister in plastic bag (still pressurized)\nStep 4: Do NOT puncture or incinerate canister\nStep 5: Place wrapped canister in pharmaceutical waste\nStep 6: Plastic holder can be rinsed and recycled\nStep 7: If partially full, treat as hazardous aerosol waste"
+  },
+  {
+    "id": "12",
+    "name": "Antibiotic Ointments",
+    "category": "Topicals",
+    "hazard_level": "low",
+    "description": "Topical antibiotic creams and gels",
+    "image_url": "https://images.unsplash.com/photo-1556228994-470ea3ba5c89?w=400",
+    "disposal_instructions": "Step 1: Squeeze all remaining ointment onto paper towels\nStep 2: Fold paper towels to contain ointment\nStep 3: Place in sealed plastic bag\nStep 4: Cut empty tube to ensure complete emptying\nStep 5: Rinse tube with hot water\nStep 6: Check if tube is recyclable (usually #5 plastic)\nStep 7: Dispose sealed bag in regular trash\nStep 8: Recycle tube if facility accepts it"
+  },
+  {
+    "id": "13",
+    "name": "Blood Glucose Test Strips",
+    "category": "Diagnostic Supplies",
+    "hazard_level": "low",
+    "description": "Used diabetic testing strips",
+    "image_url": "https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=400",
+    "disposal_instructions": "Step 1: Collect used strips in small plastic container with lid\nStep 2: Do not mix with sharps or needles\nStep 3: When container is full, seal with tape\nStep 4: Label as 'USED TEST STRIPS'\nStep 5: Dispose in regular trash\nStep 6: Alternative: Some manufacturers accept returns for recycling\nStep 7: Never flush or pour down drain"
+  },
+  {
+    "id": "14",
+    "name": "Vaccine Vials (Empty)",
+    "category": "Biologicals",
+    "hazard_level": "medium",
+    "description": "Glass vials that contained vaccines",
+    "image_url": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400",
+    "disposal_instructions": "Step 1: Ensure vial is completely empty\nStep 2: Rinse vial with 70% alcohol solution\nStep 3: Let air dry for 10 minutes\nStep 4: Wrap in paper to prevent glass breakage\nStep 5: Place in rigid plastic container\nStep 6: Seal container and label 'GLASS - BIOLOGICAL WASTE'\nStep 7: Dispose in pharmaceutical waste stream\nStep 8: Document disposal date and vaccine type in facility log"
+  },
+  {
+    "id": "15",
+    "name": "Antimicrobial IV Solutions",
+    "category": "IV Medications",
+    "hazard_level": "high",
+    "description": "Intravenous antibiotic solutions",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Disconnect IV bag from administration set\nStep 2: Seal port with sterile cap\nStep 3: Place in puncture-resistant container\nStep 4: Pour any excess liquid into absorbent pad in container\nStep 5: Seal container when 3/4 full\nStep 6: Label with drug name and 'PHARMACEUTICAL WASTE'\nStep 7: Store in designated area until licensed disposal\nStep 8: Never pour IV solutions down sink or toilet"
+  },
+  {
+    "id": "16",
+    "name": "Nitroglycerin Tablets",
+    "category": "Cardiovascular",
+    "hazard_level": "high",
+    "description": "Sublingual heart medication tablets",
+    "image_url": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=400",
+    "disposal_instructions": "Step 1: Handle with gloves as medication absorbs through skin\nStep 2: Place tablets in small glass container\nStep 3: Add water to begin dissolving tablets\nStep 4: After dissolution, add coffee grounds to mixture\nStep 5: Seal container with screw-top lid\nStep 6: Wrap container in plastic bag\nStep 7: Label 'DISSOLVED MEDICATIONS'\nStep 8: Dispose in pharmaceutical waste bin\nStep 9: Wash hands thoroughly even after glove use"
+  },
+  {
+    "id": "17",
+    "name": "Corticosteroid Pills",
+    "category": "Steroids",
+    "hazard_level": "medium",
+    "description": "Prednisone, dexamethasone, and similar steroids",
+    "image_url": "https://images.unsplash.com/photo-1550572017-4d432053c85f?w=400",
+    "disposal_instructions": "Step 1: Remove tablets from packaging\nStep 2: Crush tablets using pill crusher or sealed bag method\nStep 3: Mix crushed medication with kitty litter or sawdust\nStep 4: Add small amount of vinegar to neutralize\nStep 5: Place mixture in sealed plastic container\nStep 6: Tape lid securely\nStep 7: Remove personal information from prescription label\nStep 8: Dispose in pharmaceutical waste or regular trash"
+  },
+  {
+    "id": "18",
+    "name": "Eye Drop Solutions",
+    "category": "Ophthalmics",
+    "hazard_level": "low",
+    "description": "Medicated eye drops in small bottles",
+    "image_url": "https://images.unsplash.com/photo-1556228994-470ea3ba5c89?w=400",
+    "disposal_instructions": "Step 1: Pour remaining liquid onto paper towels\nStep 2: Fold paper towels and place in plastic bag\nStep 3: Seal bag to prevent leakage\nStep 4: Remove dropper tip from bottle\nStep 5: Rinse bottle with warm water\nStep 6: Check if bottle is recyclable plastic\nStep 7: Recycle bottle if possible, otherwise dispose with regular trash\nStep 8: Dispose sealed bag with liquid in regular trash"
+  },
+  {
+    "id": "19",
+    "name": "Disposable Syringes",
+    "category": "Sharps",
+    "hazard_level": "critical",
+    "description": "Used plastic syringes with or without needles",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Do NOT recap the needle after use\nStep 2: Immediately place entire syringe in rigid sharps container\nStep 3: If no sharps container, use thick plastic laundry detergent bottle\nStep 4: Ensure container is puncture-proof and leak-resistant\nStep 5: Fill container only to 3/4 full mark\nStep 6: Seal container permanently with heavy-duty tape\nStep 7: Label clearly 'BIOHAZARD SHARPS'\nStep 8: Never place in regular trash or recycling bins"
+  },
+  {
+    "id": "20",
+    "name": "IV Sets and Tubing",
+    "category": "IV Equipment",
+    "hazard_level": "medium",
+    "description": "Used intravenous administration sets and tubes",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Disconnect IV set from patient and solution bag\nStep 2: Clamp all open ports to prevent fluid leakage\nStep 3: Wrap tubing to prevent tangling\nStep 4: Place in leak-proof red biohazard bag\nStep 5: If contaminated with blood, treat as infectious waste\nStep 6: Seal bag when 3/4 full\nStep 7: Label with date and contents\nStep 8: Store in designated biohazard waste area for pickup"
+  },
+  {
+    "id": "21",
+    "name": "Contaminated Gloves",
+    "category": "Personal Protective Equipment",
+    "hazard_level": "medium",
+    "description": "Used latex, nitrile, or vinyl examination gloves",
+    "image_url": "https://images.unsplash.com/photo-1584744982491-665216d95f8b?w=400",
+    "disposal_instructions": "Step 1: Remove gloves using proper technique (glove-to-glove, skin-to-skin)\nStep 2: Turn gloves inside out during removal\nStep 3: Place immediately in red biohazard bag\nStep 4: If heavily soiled with blood or body fluids, double-bag\nStep 5: Never reuse disposable gloves\nStep 6: Seal bag when 3/4 full\nStep 7: Dispose as infectious waste\nStep 8: Wash hands thoroughly after glove removal"
+  },
+  {
+    "id": "22",
+    "name": "Used Surgical Masks",
+    "category": "Personal Protective Equipment",
+    "hazard_level": "medium",
+    "description": "Contaminated disposable face masks",
+    "image_url": "https://images.unsplash.com/photo-1584744982491-665216d95f8b?w=400",
+    "disposal_instructions": "Step 1: Remove mask by elastic loops without touching front\nStep 2: Fold mask in half with contaminated side inward\nStep 3: Place in designated yellow infectious waste bag\nStep 4: If used in isolation or surgery, treat as biohazard\nStep 5: Seal bag tightly\nStep 6: Perform hand hygiene immediately\nStep 7: Do NOT place in regular waste bins\nStep 8: Store in secure area until professional disposal"
+  },
+  {
+    "id": "23",
+    "name": "Contaminated Bandages and Dressings",
+    "category": "Wound Care Supplies",
+    "hazard_level": "medium",
+    "description": "Blood-soaked or fluid-saturated wound dressings",
+    "image_url": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=400",
+    "disposal_instructions": "Step 1: Use gloves when handling soiled dressings\nStep 2: Place directly into red biohazard bag\nStep 3: If heavily saturated, wrap in absorbent pad first\nStep 4: Do NOT squeeze or compress to remove fluids\nStep 5: Seal inner bag before placing in outer container\nStep 6: Label as 'INFECTIOUS WASTE'\nStep 7: Store in leak-proof container\nStep 8: Dispose through regulated medical waste service"
+  },
+  {
+    "id": "24",
+    "name": "Contaminated Cotton Swabs and Gauze",
+    "category": "Wound Care Supplies",
+    "hazard_level": "low",
+    "description": "Used cotton materials with minimal contamination",
+    "image_url": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=400",
+    "disposal_instructions": "Step 1: Assess level of contamination (blood, pus, or body fluids)\nStep 2: If lightly soiled, place in yellow bag for general medical waste\nStep 3: If heavily contaminated, treat as biohazard (red bag)\nStep 4: Wrap in absorbent material if wet\nStep 5: Seal bag to prevent odor and leakage\nStep 6: Label appropriately based on contamination level\nStep 7: Store away from patient care areas\nStep 8: Follow facility protocols for pickup schedule"
+  },
+  {
+    "id": "25",
+    "name": "Used Blood Collection Tubes (Vacutainers)",
+    "category": "Laboratory Supplies",
+    "hazard_level": "high",
+    "description": "Glass or plastic tubes containing blood samples",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Keep tubes sealed to prevent spills\nStep 2: Place directly in rigid sharps container or biohazard box\nStep 3: Do NOT empty tubes before disposal\nStep 4: If tube breaks, use spill kit and place debris in separate bag\nStep 5: Handle with forceps or gloves, never bare hands\nStep 6: Label container 'BIOHAZARD - BLOOD PRODUCTS'\nStep 7: Store in designated laboratory waste area\nStep 8: Autoclave before final disposal if required by facility"
+  },
+  {
+    "id": "26",
+    "name": "Disposable Scalpels and Surgical Blades",
+    "category": "Sharps",
+    "hazard_level": "critical",
+    "description": "Used surgical cutting instruments",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Do NOT remove blade from handle\nStep 2: Place entire scalpel in puncture-proof sharps container immediately\nStep 3: If blade must be removed, use blade remover device only\nStep 4: Never use fingers to remove or bend blades\nStep 5: Ensure sharps container is within arm's reach during procedure\nStep 6: Fill container only to designated fill line\nStep 7: Seal and label with biohazard symbol\nStep 8: Follow facility protocol for sharps container replacement"
+  },
+  {
+    "id": "27",
+    "name": "Used Lancets",
+    "category": "Sharps",
+    "hazard_level": "high",
+    "description": "Finger-stick blood sampling devices",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Activate safety mechanism if available\nStep 2: Place immediately in sharps container\nStep 3: For home use, portable sharps containers are available at pharmacies\nStep 4: Do NOT place in household trash or recycling\nStep 5: Never reuse lancets\nStep 6: Keep sharps container out of reach of children\nStep 7: When container is 3/4 full, seal and tape shut\nStep 8: Contact pharmacy or waste management for proper disposal options"
+  },
+  {
+    "id": "28",
+    "name": "Suture Needles and Material",
+    "category": "Sharps",
+    "hazard_level": "critical",
+    "description": "Curved surgical needles with or without attached sutures",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Count all needles after procedure to ensure none are missing\nStep 2: Place needles directly in sharps container using forceps\nStep 3: Cut away excess suture material before disposal\nStep 4: Never pass sharps hand-to-hand; use neutral zone\nStep 5: Dispose contaminated suture material in biohazard bag\nStep 6: Document needle count in patient record\nStep 7: Report any missing needles immediately\nStep 8: Ensure sharps container is stable and won't tip over"
+  },
+  {
+    "id": "29",
+    "name": "Urinary Catheters and Collection Bags",
+    "category": "Medical Devices",
+    "hazard_level": "medium",
+    "description": "Used drainage systems and collection devices",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Wear gloves and protective equipment during removal\nStep 2: Clamp catheter before disconnecting to prevent spillage\nStep 3: Empty collection bag into designated sink or toilet\nStep 4: Rinse drainage area with disinfectant\nStep 5: Place catheter and bag in red biohazard bag\nStep 6: Double-bag if bag is damaged or leaking\nStep 7: Seal bag completely and label contents\nStep 8: Perform hand hygiene thoroughly after disposal"
+  },
+  {
+    "id": "30",
+    "name": "Expired Saline and IV Solutions",
+    "category": "IV Medications",
+    "hazard_level": "low",
+    "description": "Unused expired intravenous fluids",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Check expiration date and verify it has passed\nStep 2: Pour liquid contents into designated sink with running water\nStep 3: Rinse empty bags or bottles with water\nStep 4: Remove all labels containing patient information\nStep 5: Puncture IV bags to ensure they cannot be reused\nStep 6: Place empty containers in general waste\nStep 7: Large quantities should be reported to waste coordinator\nStep 8: Document disposal in facility log"
+  },
+  {
+    "id": "31",
+    "name": "Broken Mercury Thermometers",
+    "category": "Hazardous Materials",
+    "hazard_level": "critical",
+    "description": "Thermometers containing elemental mercury",
+    "image_url": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400",
+    "disposal_instructions": "Step 1: Evacuate area and ventilate room immediately\nStep 2: Wear gloves and avoid skin contact with mercury\nStep 3: Use cardboard to gather mercury beads together\nStep 4: Use eyedropper to collect mercury into sealed glass container\nStep 5: Place all contaminated materials in zip-lock bag\nStep 6: Label container 'MERCURY WASTE - HAZARDOUS'\nStep 7: Contact environmental services for proper disposal\nStep 8: Never vacuum mercury or wash down drain\nStep 9: Document incident and disposal in safety log"
+  },
+  {
+    "id": "32",
+    "name": "Broken Glass Ampoules",
+    "category": "Sharps",
+    "hazard_level": "high",
+    "description": "Medication ampoules with sharp glass edges",
+    "image_url": "https://images.unsplash.com/photo-1587854692152-cbe660dbde88?w=400",
+    "disposal_instructions": "Step 1: Use forceps or hemostats to handle broken glass\nStep 2: Never pick up glass with bare hands\nStep 3: Place broken ampoules in rigid sharps container\nStep 4: If medication contaminated glass, treat as pharmaceutical waste\nStep 5: Wipe surface with alcohol if medication spilled\nStep 6: Dispose contaminated wipes in biohazard bag\nStep 7: Label sharps container appropriately\nStep 8: Report any cuts or punctures to supervisor immediately"
+  },
+  {
+    "id": "33",
+    "name": "Used Petri Dishes and Culture Plates",
+    "category": "Laboratory Supplies",
+    "hazard_level": "high",
+    "description": "Agar plates with bacterial or fungal growth",
+    "image_url": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=400",
+    "disposal_instructions": "Step 1: Seal plates with tape before removing from incubator\nStep 2: Place sealed plates in autoclavable biohazard bag\nStep 3: Autoclave at 121°C for 30 minutes minimum\nStep 4: Allow to cool completely before handling\nStep 5: After autoclaving, place in yellow infectious waste bag\nStep 6: Label with autoclave date and contents\nStep 7: Store in designated biohazard waste area\nStep 8: Never dispose of unsterilized cultures"
+  },
+  {
+    "id": "34",
+    "name": "Contaminated Surgical Gowns",
+    "category": "Personal Protective Equipment",
+    "hazard_level": "medium",
+    "description": "Disposable isolation gowns exposed to body fluids",
+    "image_url": "https://images.unsplash.com/photo-1584744982491-665216d95f8b?w=400",
+    "disposal_instructions": "Step 1: Remove gown from inside out, touching only interior surface\nStep 2: Roll gown with contaminated side inward\nStep 3: Place in red biohazard bag immediately\nStep 4: If heavily soiled, place in leak-proof container first\nStep 5: Do NOT shake or fold gown before disposal\nStep 6: Seal bag when 3/4 full\nStep 7: Store in designated area away from clean supplies\nStep 8: Perform hand hygiene after removal"
+  },
+  {
+    "id": "35",
+    "name": "Used Biopsy Needles",
+    "category": "Sharps",
+    "hazard_level": "critical",
+    "description": "Tissue sampling needles and core biopsy devices",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Activate needle safety mechanism immediately after use\nStep 2: Place entire device in sharps container without delay\nStep 3: Never disassemble or recap biopsy needles\nStep 4: Ensure sharps container is within immediate reach\nStep 5: If device has tissue sample, dispose of tissue separately in specimen container\nStep 6: Label sharps container 'BIOHAZARD - CONTAMINATED SHARPS'\nStep 7: Fill container only to marked line\nStep 8: Document disposal in procedure log"
+  },
+  {
+    "id": "36",
+    "name": "Expired Diagnostic Reagents",
+    "category": "Laboratory Chemicals",
+    "hazard_level": "medium",
+    "description": "Chemical solutions used in laboratory testing",
+    "image_url": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=400",
+    "disposal_instructions": "Step 1: Identify chemical composition and hazard classification\nStep 2: Check SDS (Safety Data Sheet) for disposal requirements\nStep 3: Segregate incompatible chemicals\nStep 4: Pour liquid reagents into labeled chemical waste container\nStep 5: Do NOT mix different chemical wastes\nStep 6: Keep original label on container\nStep 7: Seal containers tightly to prevent evaporation\nStep 8: Contact hazardous waste service for pickup\nStep 9: Document disposal in chemical waste log"
+  },
+  {
+    "id": "37",
+    "name": "Used Oxygen Masks and Tubing",
+    "category": "Respiratory Equipment",
+    "hazard_level": "low",
+    "description": "Disposable oxygen delivery devices",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Disconnect mask from oxygen source\nStep 2: Remove mask from patient gently\nStep 3: Coil tubing to prevent tangling\nStep 4: Place in yellow general medical waste bag\nStep 5: If contaminated with blood or secretions, use red biohazard bag\nStep 6: Disinfect oxygen connection port on wall\nStep 7: Seal bag when 3/4 full\nStep 8: Replace with new equipment for next patient"
+  },
+  {
+    "id": "38",
+    "name": "Contaminated Specimen Containers",
+    "category": "Laboratory Supplies",
+    "hazard_level": "high",
+    "description": "Plastic containers with biological samples",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Ensure container lid is sealed tightly\nStep 2: Wipe exterior with disinfectant if soiled\nStep 3: Place in rigid biohazard container\nStep 4: If container leaks, place in secondary sealed bag\nStep 5: Label outer container with specimen type\nStep 6: Store in refrigerated biohazard area if required\nStep 7: Autoclave before disposal if containing infectious material\nStep 8: After autoclaving, dispose in general medical waste"
+  },
+  {
+    "id": "39",
+    "name": "Used Nebulizer Equipment",
+    "category": "Respiratory Equipment",
+    "hazard_level": "medium",
+    "description": "Reusable and disposable nebulizer parts",
+    "image_url": "https://images.unsplash.com/photo-1581594549595-35f6edc7b762?w=400",
+    "disposal_instructions": "Step 1: Disconnect nebulizer from power source and tubing\nStep 2: Disassemble all parts (mask, cup, mouthpiece)\nStep 3: If disposable, place all parts in yellow medical waste bag\nStep 4: If reusable, clean with disinfectant per manufacturer instructions\nStep 5: Dispose tubing as general medical waste\nStep 6: Rinse medication cup to remove residue\nStep 7: Allow parts to air dry before storage or disposal\nStep 8: Replace disposable parts after each patient use"
+  },
+  {
+    "id": "40",
+    "name": "Formalin-Fixed Tissue Samples",
+    "category": "Pathology Materials",
+    "hazard_level": "critical",
+    "description": "Preserved tissue specimens in formaldehyde solution",
+    "image_url": "https://images.unsplash.com/photo-1579154204601-01588f351e67?w=400",
+    "disposal_instructions": "Step 1: Keep specimens in sealed containers at all times\nStep 2: Handle in fume hood due to formaldehyde vapors\nStep 3: Wear double gloves and protective equipment\nStep 4: Place containers in secondary containment\nStep 5: Label as 'HAZARDOUS WASTE - FORMALDEHYDE'\nStep 6: Do NOT pour formalin down drain\nStep 7: Store in designated chemical waste area\nStep 8: Contact licensed hazardous waste contractor for disposal\nStep 9: Maintain disposal records for 5 years minimum"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "Biomedical Waste Management – Colour Code & Segregation",
+    "description": "Detailed training on biomedical waste segregation using colour-coded bins in healthcare facilities.",
+    "category": "Healthcare Facilities",
+    "video_url": "https://www.youtube.com/embed/NcOEkZCA3sw",
+    "thumbnail_url": "https://img.youtube.com/vi/NcOEkZCA3sw/maxresdefault.jpg",
+    "duration": "8:45"
+  },
+  {
+    "id": "2",
+    "title": "Safe Medical Waste Disposal at Home",
+    "description": "How to safely dispose of home-generated medical waste such as sharps and unused medications.",
+    "category": "Home Care",
+    "video_url": "https://www.youtube.com/embed/hCnThtBNeuc",
+    "thumbnail_url": "https://img.youtube.com/vi/hCnThtBNeuc/maxresdefault.jpg",
+    "duration": "6:12"
+  },
+  {
+    "id": "3",
+    "title": "Regulated Medical Waste: 7 Steps in the Disposal Process",
+    "description": "Expert walkthrough of the regulatory process for medical waste: collection, transport, treatment and final disposal.",
+    "category": "Regulated Waste",
+    "video_url": "https://www.youtube.com/embed/N1FeTxiXcgI",
+    "thumbnail_url": "https://img.youtube.com/vi/N1FeTxiXcgI/maxresdefault.jpg",
+    "duration": "11:20"
+  },
+  {
+    "id": "4",
+    "title": "Laboratory Waste: Chemical & Biological Hazard Control",
+    "description": "Safe practices and disposal methods for chemical and biological waste generated in labs.",
+    "category": "Laboratory",
+    "video_url": "https://www.youtube.com/embed=X3fG2VhEHKw",
+    "thumbnail_url": "https://img.youtube.com/vi/X3fG2VhEHKw/maxresdefault.jpg",
+    "duration": "7:52"
+  },
+  {
+    "id": "5",
+    "title": "Environmental Impact of Improper Medical Waste Disposal",
+    "description": "Investigating how mismanaged medical waste affects ecosystems and what can be done.",
+    "category": "Environmental",
+    "video_url": "https://www.youtube.com/embed/1D-0c8KjLmk",
+    "thumbnail_url": "https://img.youtube.com/vi/1D-0c8KjLmk/maxresdefault.jpg",
+    "duration": "5:50"
+  },
+  {
+    "id": "6",
+    "title": "Pharmaceutical Waste: Expired Medications and Safe Disposal",
+    "description": "Guidelines for healthcare facilities and households on disposing of expired or unused drugs.",
+    "category": "Pharmaceutical",
+    "video_url": "https://www.youtube.com/embed/7K0J_GHWk8Q",
+    "thumbnail_url": "https://img.youtube.com/vi/7K0J_GHWk8Q/maxresdefault.jpg",
+    "duration": "4:30"
+  },
+  {
+    "id": "7",
+    "title": "Sharps Waste: Needles, Syringes & Containers",
+    "description": "Complete overview of sharps disposal: safe containers, transport, and treatment protocols.",
+    "category": "Safety",
+    "video_url": "https://www.youtube.com/embed/iCEYyb24i-E",
+    "thumbnail_url": "https://img.youtube.com/vi/iCEYyb24i-E/maxresdefault.jpg",
+    "duration": "4:12"
+  },
+  {
+    "id": "8",
+    "title": "Infectious Waste Segregation: Clinics & Hospitals",
+    "description": "Strategies for infectious waste segregation, handling and disposal in clinical settings.",
+    "category": "Safety",
+    "video_url": "https://www.youtube.com/embed/VHkqDQC6t8k",
+    "thumbnail_url": "https://img.youtube.com/vi/VHkqDQC6t8k/maxresdefault.jpg",
+    "duration": "5:15"
+  },
+  {
+    "id": "9",
+    "title": "Medical PPE Disposal During and After the Pandemic",
+    "description": "Safe disposal of masks, gloves and gowns used in medical and pandemic contexts.",
+    "category": "Waste Management",
+    "video_url": "https://www.youtube.com/embed/EtXP9p_zJUA",
+    "thumbnail_url": "https://img.youtube.com/vi/EtXP9p_zJUA/maxresdefault.jpg",
+    "duration": "6:30"
+  },
+  {
+    "id": "10",
+    "title": "Dental Clinic Waste Management: Best Practices",
+    "description": "Focused guide for dental clinics on segregating, storing and disposing of dental waste.",
+    "category": "Dental",
+    "video_url": "https://www.youtube.com/embed/T6NjUbYcHdk",
+    "thumbnail_url": "https://img.youtube.com/vi/T6NjUbYcHdk/maxresdefault.jpg",
+    "duration": "9:45"
+  }
+]
