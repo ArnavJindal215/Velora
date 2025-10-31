@@ -118,7 +118,7 @@ Time: ${new Date().toLocaleString()}`);
     <div className="min-h-screen flex items-center justify-center bg-gradient-hero p-4">
       <Card className="w-full max-w-md shadow-lg">
         <CardHeader className="space-y-1">
-          <CardTitle className="text-2xl font-bold text-center">Welcome to MediCycle</CardTitle>
+          <CardTitle className="text-2xl font-bold text-center">Welcome to Revera</CardTitle>
           <CardDescription className="text-center">
             Safe and efficient medicinal waste disposal
           </CardDescription>
